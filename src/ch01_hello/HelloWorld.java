@@ -1,4 +1,4 @@
-package hello;
+package ch01_hello;
 
 public class HelloWorld {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class HelloWorld {
     }
 }
 
-// 한 줄 주석 표시하기
+// 한 줄 주석 표시하기 (주석은 컴파일 X)
 
 /* 여러 줄 주석 표시하기
 Date : 2026년 2월 26일
