@@ -1,5 +1,6 @@
 package ch02_VarAndType;
 
+// 변수 선언하여 사용하기
 public class Variable1 {
     public  static void main(String[] args) {
         int level;         // 정수형 변수 level을 선언
