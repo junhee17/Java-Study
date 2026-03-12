@@ -1,4 +1,4 @@
-package Ifexample;
+package ch04_Ifexample;
 
 // if-else if-else문으로 입장료 계산하기
 public class Ifexample2 {

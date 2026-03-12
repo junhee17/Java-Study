@@ -1,4 +1,4 @@
-package Ifexample;
+package ch04_Ifexample;
 
 // 조건문을 사용하여 나이에 따라 다른 문장 출력하기
 public class IfExample1 {
