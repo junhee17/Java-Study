@@ -10,7 +10,7 @@ public class OperationEx5 {
 
         System.out.println(num);   // num에 대입한 값이 없으므로 비트 이동과 관계없이 기존값 그대로 출력
 
-        num = num << 2;   // 왼쪽으로 2비트 이동한 값을 다시 num에 대압
+        num = num << 2;   // 왼쪽으로 2비트 이동한 값을 다시 num에 대입
         System.out.println(num);
     }
 }
